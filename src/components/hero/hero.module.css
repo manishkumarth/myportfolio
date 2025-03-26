@@ -1,0 +1,86 @@
+.lefthero1{
+    color: rgb(219, 212, 212);
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    /* font-style: italic; */
+  }
+  
+  .rightimg{
+      background-color: #e3e2e2;
+      width: 350px;
+      /* width: auto; */
+      height: 430px;
+      border-radius: 45%;
+      overflow: hidden;
+      z-index: -1;
+      margin: auto;
+  }
+  .imghero1{
+      position: relative;
+      position: relative;
+      top: -48px;
+      left: -5px;
+      
+      
+  }
+  .years10{
+      background-color: #7190f0;
+      height: 220px;
+      width: 200px;
+      padding: 70px 45px;
+      margin-top: -30px;
+      margin-left: 100px;
+      /* margin-left: -20px; */
+      border-radius: 40%;
+      text-align: center;
+      z-index: 1;
+      /* margin: auto; */
+  }
+  
+  /* .dwonSection{
+       height: 250px;
+      
+       background-color: #e3e2e2;
+  } */
+  .btnhero{
+      /* margin-top: 100px; */
+      display: flex;
+      /* justify-content: center; */
+      align-items: center;
+      justify-content: center;
+      column-gap: 40px;
+      position: relative;
+      top: 50px;
+  }
+  .homepaps{
+      background-image: url("./public/img/hero.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  .sociallinks{
+      position: relative;
+      top: 120px;
+      left: 0;
+      /* margin-top: 400px; */
+      /* transform: translate(-50% -50%); */
+  }
+  
+  .heropara{
+      /* background-color: rgb(5, 7, 8); */
+      /* background-color: yellow; */
+      filter: blue(1px);
+  }
+  .heropara1{
+      background: linear-gradient(to right, #f32170, #ff6b08,#cf23cf, #eedd44);
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+  
+  }
+  .heroheading1{
+      font-weight: 800;
+      background: linear-gradient(to right, #ededed, #ff6b08);
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+  
+  
+  }
